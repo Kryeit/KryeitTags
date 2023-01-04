@@ -1,4 +1,4 @@
-# KryeitTags
+# KryeitTags - Datapack
 
 This adds support for tags. Example vanilla tag -> #minecraft:wooden_doors
 
