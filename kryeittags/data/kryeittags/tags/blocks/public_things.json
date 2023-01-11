@@ -1,0 +1,12 @@
+target=, target=, target=, target=, target=minecraft:grindstone, target=, target=, target=
+{
+    "values":[
+      "minecraft:stonecutter",
+      "minecraft:loom",
+      "create:schematic_table",
+      "minecraft:cartography_table",
+      "minecraft:crafting_table",
+      "minecraft:smithing_table",
+      "minecraft:ender_chest"
+    ]
+   }
