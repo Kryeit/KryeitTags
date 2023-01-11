@@ -1,0 +1,20 @@
+{
+  "values":[
+    "create:nozzle",
+    "create:deployer",
+    "create:mechanical_saw",
+    "create:mechanical_drill",
+    "create:cart_assembler",
+    "create:hand_crank",
+    "create:gantry_carriage",
+    "create:mechanical_piston",
+    "create:sticky_mechanical_piston",
+    "create:mechanical_bearing",
+    "create:rope_pulley",
+    "create:sticker",
+    "create:mechanical_arm",
+    "create:redstone_link",
+    "create:schematicannon",
+    "create:schematic_table" 
+  ]
+ }
