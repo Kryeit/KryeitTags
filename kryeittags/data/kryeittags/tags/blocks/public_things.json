@@ -1,4 +1,3 @@
-target=, target=, target=, target=, target=minecraft:grindstone, target=, target=, target=
 {
     "values":[
       "minecraft:stonecutter",
@@ -7,6 +6,7 @@ target=, target=, target=, target=, target=minecraft:grindstone, target=, target
       "minecraft:cartography_table",
       "minecraft:crafting_table",
       "minecraft:smithing_table",
-      "minecraft:ender_chest"
+      "minecraft:ender_chest",
+      "minecraft:grindstone"
     ]
    }
